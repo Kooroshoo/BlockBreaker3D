@@ -29,7 +29,6 @@ Advanced (extra) requirements:
 <li>[E5]			Path after the balls is traced.</li>
 <li>[E6]			Shatter things to triangles, inspiration.</li>
 <li>[E7]			Screen “shakes” when the ball hits your paddle.</li>
-<li>Fourth item</li>
 </ul>
 
 
